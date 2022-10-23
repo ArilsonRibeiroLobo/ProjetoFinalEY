@@ -1,0 +1,9 @@
+Instalar python
+
+pip install SpeechRecognition
+pip install pyaudio  
+pip install googletrans==3.1.0a0
+pip install gTTS
+pip install playsound
+pip install ipython
+pip install pyglet
