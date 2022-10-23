@@ -18,7 +18,7 @@ def ouvir_microfone():
         #Chama um algoritmo de reducao de ruidos no som
         microfone.adjust_for_ambient_noise(source)        
         #Frase para o usuario dizer algo
-        print("Diga alguma coisa: ")        
+        print("Diga alguma coisa em INGLÊS: ")        
         #Armazena o que foi dito numa variavel
         audio = microfone.listen(source)
         
